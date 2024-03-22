@@ -130,7 +130,7 @@
     </svg>
 
     <main class="form-signin w-100 m-auto">
-        <form action="proses.php" method="post">
+        <form action="" method="">
             <img class="" style="margin-top: -100px;" src="asset/gambar/lock-icon.png" alt="" width="80" height="80">
             <h1 class="h2 my-2 fw-normal text-white">Lock Screen</h1>
 

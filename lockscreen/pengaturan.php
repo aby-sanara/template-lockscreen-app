@@ -18,7 +18,7 @@ require "template/sidebar.php";
         <h1 class="h2">Pengaturan</h1>
       </div>
 
-        <form action="proses.php" method="post">
+        <form action="" method="">
             <div class="row">
                 <div class="col-lg-7">
                     <div class="form-group mb-3">

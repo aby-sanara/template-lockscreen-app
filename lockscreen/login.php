@@ -120,7 +120,7 @@
     </svg>
 
     <main class="form-signin w-100 m-auto">
-        <form action="proses.php" method="post">
+        <form action="" method="">
             <img class="" style="margin-top: -50px;" src="asset/gambar/logo.png" alt="" width="150" height="150">
             <h1 class="h2 mb-4 fw-normal text-white">codingline</h1>
 
